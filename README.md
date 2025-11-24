@@ -27,4 +27,4 @@ public static String maximizeA(String A, String B) {
 
 ![photo_2025-02-14_11-49-20.jpg](https://github.com/Mikhayloves/maximizeA/blob/master/Снимок%20экрана%202025-11-25%20003158.png)
 
-![photo_2025-02-14_11-49-20.jpg](https://github.com/Mikhayloves/AtCoder/blob/master/Снимок%20экрана%202025-11-24%20231709.png)
+![photo_2025-02-14_11-49-20.jpg](https://github.com/Mikhayloves/maximizeA/blob/master/Снимок%20экрана%202025-11-24%20235540.png)
